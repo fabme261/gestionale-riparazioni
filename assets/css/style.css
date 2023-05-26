@@ -1,0 +1,31 @@
+.container-fluid {
+    padding: 5px 60px;
+}
+/* form insert */
+.inserimento {
+    width: 60%;
+    padding: 20px 20px 0px 20px;
+    margin-left: 250px;
+    margin-top: 20px;
+}
+
+.prima {
+    display: flex;
+}
+.seconda {
+    display: flex;
+}
+.maremma{
+    display: flex;
+    justify-content: space-between;
+    padding-right: 60px;
+
+}
+div{
+    padding-top:5px;
+    padding-bottom: 5px;
+}
+.titolo{
+    margin-bottom: 20px;
+    text-align: center;
+}
