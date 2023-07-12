@@ -46,14 +46,8 @@ INSERT INTO `tgestionale` (`id`, `nomeCognome`, `oggetto`, `tipoRiparazione`, `d
 (1, 'Maria Verdi', 'Anello diamanti', 'Rodiare griffe', '2023-05-17', '0000-00-00', 'Angelo', ''),
 (2, 'Antonio Giallo', 'Bracciale Argento', 'Accorciare', '2023-05-17', '0000-00-00', 'Angelo', '2 maglie in meno'),
 (3, 'Caterina Grossi', 'Orologio', 'sostituzione vetro', '2023-05-19', '0000-00-00', 'Orologiaio', 'se inferiore a 30 euro procedere!'),
-(4, 'Salvatore ', 'Orologio', 'sostituzione lancetta secondi e pulizia', '2023-05-19', '0000-00-00', 'Orologiaio', 'da consegnare entro fine mese'),
-(8, 'fabiana', 'Ciondolo', 'rodiatura', '2023-05-19', '0000-00-00', 'Angelo', 'nessuna'),
-(9, 'fabiana', 'Ciondolo', 'rodiatura', '2023-05-19', '0000-00-00', 'Angelo', 'nessuna'),
-(10, 'fabiana', 'Ciondolo', 'rodiatura', '2023-05-19', '0000-00-00', 'Angelo', 'nessuna'),
-(12, 'luca', 'Bracciale', 'rodiare', '2023-05-19', '0000-00-00', 'Angelo', 'nessuna'),
-(17, 'gennaro mecca', 'Orologio', 'saldatura', '2023-05-25', '0000-00-00', 'Orologiaio', 'note'),
-(19, 'roberto mecca', 'Bracciale', 'saldatura', '2023-05-26', '0000-00-00', 'Angelo', 'dolenti'),
-(20, 'fabiana', 'Ciondolo', 'rodiature', '2023-05-26', '0000-00-00', 'Tari', 'nessuna');
+(4, 'Salvatore ', 'Orologio', 'sostituzione lancetta secondi e pulizia', '2023-05-19', '0000-00-00', 'Orologiaio', 'da consegnare entro fine mese');
+
 
 --
 -- Indici per le tabelle scaricate
